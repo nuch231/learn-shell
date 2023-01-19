@@ -1,0 +1,4 @@
+echo "hi, my name is jonathan" > test.txt
+git add test.txt
+git commit -m "added test.txt file"
+git push
